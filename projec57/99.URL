@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.bg-image {
+  /* The image used */
+  background-image: url("amazing-animal-beautiful-beautifull.jpg");
+  
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  
+  /* Full height */
+  height: 1000px; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+</head>
+<body>
+<div class="bg-txt">
+<p>aewsdtfygtuyihujoik</p>
+</div>
+
+</body>
+</html>
